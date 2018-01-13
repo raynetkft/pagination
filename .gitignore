@@ -24,8 +24,8 @@ node_modules
 dist
 assets/**/*.css
 build
-lib
-es
+_lib
+_es
 .vscode
 coverage/
 yarn.lock
